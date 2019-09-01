@@ -227,7 +227,7 @@ header #newsletter label {
 .welcome-area .image-bg {
   position: relative;
   background-size: cover !important;
-  background: url("../images/imageBg.jpg");
+  background: url("../images/dek2.jpg");
   width: 100%;
   height: 100%;
   z-index: 2;
@@ -237,7 +237,7 @@ header #newsletter label {
 .welcome-area .particle-bg {
   position: relative;
   background-size: cover !important;
-  background: url("../images/particleBg.jpg");
+  background: url("../images/dek2.jpg");
   width: 100%;
   height: 100%;
   z-index: 2;
@@ -247,7 +247,7 @@ header #newsletter label {
 .welcome-area .snow-bg {
   position: relative;
   background-size: cover !important;
-  background: url("../images/snowBg.jpg");
+  background: url("../images/dek2.jpg");
   width: 100%;
   height: 100%;
   z-index: 2;
@@ -257,7 +257,7 @@ header #newsletter label {
 .welcome-area .square-bg {
   position: relative;
   background-size: cover !important;
-  background: url("../images/squareBg.jpg");
+  background: url("../images/dek2.jpg");
   width: 100%;
   height: 100%;
   z-index: 2;
@@ -265,7 +265,7 @@ header #newsletter label {
 }
 .bird.vanta-bg{
   background-size: cover !important;
-  background: url("../images/birdBg.jpg");
+  background: url("../images/dek2.jpg");
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
 }
 
@@ -297,7 +297,7 @@ header #newsletter label {
   position: absolute;
   width: 50%;
   height: 100%;
-  background: url("../images/overlayImg.png");
+  background: url("../images/dek.png");
   top: 0;
   opacity: 0.2;
 }
@@ -1273,6 +1273,7 @@ header #newsletter label {
 }
 
 .contact .contact-text {
+  color: black;
   padding-bottom: 10px !important;
 }
 
